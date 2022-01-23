@@ -1,0 +1,6 @@
+notebook
+pandas
+matplotlib
+numpy
+seaborn
+pandas_datareader
